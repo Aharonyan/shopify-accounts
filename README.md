@@ -14,7 +14,7 @@ npm install -g shopify-accounts
 
 ```bash
 # List all accounts (default command)
-shopify-accounts
+shopify-accounts list
 
 # Switch to an account
 shopify-accounts switch user@example.com
@@ -30,6 +30,12 @@ shopify-accounts add
 
 # Remove an account
 shopify-accounts remove user@example.com
+
+# Show help
+shopify-accounts help
+
+# Show help for a specific command
+shopify-accounts help switch
 ```
 
 ## How it works

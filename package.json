@@ -23,11 +23,11 @@
     "shopify-cli",
     "developer-tools"
   ],
-  "author": "",
+  "author": "Aharonyan",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Aharonyan/shopify-accounts.git"
   },
-  "homepage": ""
+  "homepage": "https://github.com/Aharonyan/shopify-accounts#readme"
 }
