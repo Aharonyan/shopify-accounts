@@ -1,6 +1,6 @@
 {
   "name": "shopify-accounts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Switch between multiple Shopify CLI accounts without logging out",
   "bin": {
     "shopify-accounts": "./bin/cli.js"
